@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.h(31,19): error C2833: "operator ;" не является распознаваемым оператором или типом
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.h(31,19): error C2059: синтаксическая ошибка: newline
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.h(32,33): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+  MyString.cpp
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.h(31,19): error C2833: "operator ;" не является распознаваемым оператором или типом
+  (компиляция исходного файла "MyString.cpp")
+  
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.h(31,19): error C2059: синтаксическая ошибка: newline
+  (компиляция исходного файла "MyString.cpp")
+  
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.h(32,33): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "MyString.cpp")
+  
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(28,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(69,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(139,1): error C2833: "operator {" не является распознаваемым оператором или типом
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(138,17): error C2589: operator: недопустимая лексема справа от "::"
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(138,7): error C2062: тип "unknown-type" не требуется
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(141,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(141,5): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(144,5): error C2059: синтаксическая ошибка: throw
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(145,1): error C2059: синтаксическая ошибка: }
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(145,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(148,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\sofia\source\repos\dz9MyString2\dz9MyString2\MyString.cpp(148,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Создание кода...
